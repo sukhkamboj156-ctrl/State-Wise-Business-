@@ -1,25 +1,25 @@
-# 📊 StateWise-Business-Analytics
+# StateWise-Business-Analytics
 
 An interactive business analytics dashboard focused on state-wise performance insights, covering revenue, units sold, marketing spend, and customer behavior using data visualization tools.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This project analyzes business performance across different states to provide actionable insights for decision-making. It helps in understanding how revenue, marketing efforts, and customer engagement vary geographically.
 
 ---
 
-## 📌 Key Features
-- 📈 Revenue analysis by state
-- 🛒 Units sold tracking
-- 💰 Marketing spend vs ROI analysis
-- 👥 Customer segmentation insights
-- 🗺️ State-wise performance visualization (Map-based)
-- 📊 Interactive dashboard for better insights
+## Key Features
+- Revenue analysis by state
+- Units sold tracking
+- Marketing spend vs ROI analysis
+- Customer segmentation insights
+- State-wise performance visualization (Map-based)
+- Interactive dashboard for better insights
 
 ---
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 - Total Revenue: **535M**
 - Units Sold: **512K**
 - Marketing Spend: **55M**
@@ -27,19 +27,24 @@ This project analyzes business performance across different states to provide ac
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Power BI (Data Visualization)
 - Excel / CSV (Data Source)
 - Data Cleaning & Transformation
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](dashboard2.png.jpeg)
+![Dashboard Preview](dashboard3.png.jpeg)
+![Dashboard Preview](dashboard4.png.jpeg)
+![Dashboard Preview](dashboard5.png.jpeg)
+![Dashboard Preview](dashboard6.png.jpeg)
+![Dashboard Preview](dashboard7.png.jpeg)
 
 ---
 
-## 📈 Key Learnings
+## Key Learnings
 - Understanding business performance metrics
 - Data visualization techniques
 - Importance of data-driven decision making
@@ -47,7 +52,7 @@ This project analyzes business performance across different states to provide ac
 
 ---
 
-## 🎯 Use Case
+## Use Case
 This dashboard can be used by:
 - Business Managers
 - Marketing Teams
@@ -56,7 +61,7 @@ This dashboard can be used by:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Adding predictive analytics
 - Real-time data integration
 - Advanced customer segmentation
@@ -64,15 +69,15 @@ This dashboard can be used by:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💼 Author
+## Author
 **Sukhpreet Kaur**
